@@ -1,0 +1,6 @@
+use_frameworks!
+target 'HFTCommonDefinition_Tests' do
+  pod 'HFTCommonDefinition', :path => '../'
+  
+  
+end
